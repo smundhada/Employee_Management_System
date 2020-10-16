@@ -42,8 +42,8 @@ MIT
 Github Link - https://github.com/smundhada
 Email - shubhimundhada@gmail.com
 
-## Demo 
+# Demo 
 ---
-[demo-link](https://www.youtube.com/watch?v=3iTkCIn4ROs&feature=youtu.be)
+## [demo-link](https://www.youtube.com/watch?v=3iTkCIn4ROs&feature=youtu.be)
 ![alt text](shot.png)
 ![alt text](shot2.png)
